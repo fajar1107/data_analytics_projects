@@ -1,0 +1,12 @@
+└── 📁 bank_churn_analysis_project
+    ├── 📁 dataset
+    │   └── 📁 source
+    │       └── 📄 customers.csv
+    ├── 📄 insights_documentation.md
+    ├── 📁 power_bi_dashboard
+    │   └── 📄 churn_analysis_dashboard.pbix
+    ├── 📁 python_eda
+    │   ├── 📄 CustomerChurn.jpeg
+    │   └── 📄 eda_churn_analysis.ipynb
+    └── 📁 sql_insights
+        └── 📄 all_queries.sql
