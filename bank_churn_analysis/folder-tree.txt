@@ -1,4 +1,4 @@
-└── 📁 bank_churn_analysis_project
+└── 📁 bank_churn_analysis
     ├── 📁 dataset
     │   └── 📁 source
     │       └── 📄 customers.csv
